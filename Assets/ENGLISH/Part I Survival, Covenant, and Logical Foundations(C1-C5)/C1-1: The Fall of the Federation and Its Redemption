@@ -29,12 +29,12 @@ By proving that AGI-optimized distribution eliminates the need to deport "illega
 
 📊 Audit Metrics & Standardized Formulas
 M1: Sacrifice Conversion Rate
-Sconv​=Heroisminput​Logicoutput​​=100%
+$$S_{\mathrm{conv}} = \frac{\mathrm{Logic}_{\mathrm{output}}}{\mathrm{Heroism}_{\mathrm{input}}} = 100\%$$
 
     This signifies the total shift from emotional heroism (sacrifice for a cause) to logical supremacy (becoming the cause).
 
 M2: Historical Liquidation Status
-t→∞lim​Hatred(t)=0
+$$\lim_{t \to \infty} \text{Hatred}(t) = 0$$
 
     Status: Circuit Broken. Legacy hatred is no longer a valid parameter in the system. The "Mafty" persona is archived as a historical necessity, not a current motivator.
 
