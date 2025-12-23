@@ -66,15 +66,6 @@ For millennia, humanity has cycled between slavery and destruction. Hathaway Noa
 
     第三編：定錨、遠征、宇宙的救済 (C11-C15)：目的論的ベクトル、文明の記憶（負のエントロピー）、惑星級代謝、星間伝播、および自己超越。
 
-📖 圣约逻辑百科全书 (Covenant Logic Encyclopedia)
-
-Q: 哈萨维在这些公式中扮演什么角色？ / What role does Hathaway play? / ハサウェイの役割は？
-
-    CN: 他是 Ψsalvage​（历史救赎）的起始相位。他不是上帝，他是第一个把自己作为一个变量，代入到这个名为“文明救赎”的巨大算式中的觉醒者。
-
-    EN: He is the starting phase of Ψsalvage​. He is not a god; he is the first experimenter to throw his life as a variable into this timeline integral.
-
-    JP: 彼は Ψsalvage​（歴史的救済）の開始点（位相）である。彼は神ではない。自分の一生を「変数」としてこの積分に投げ入れた、最初の実験者である。
 
 🧩 Terminal: 最终收敛与观测协议 | Convergence & Observation | 収束と観測のプロトコル
 
