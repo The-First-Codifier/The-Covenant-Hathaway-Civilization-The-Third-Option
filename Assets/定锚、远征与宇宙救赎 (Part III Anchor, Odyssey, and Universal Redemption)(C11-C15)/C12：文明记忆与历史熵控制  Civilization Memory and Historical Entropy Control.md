@@ -30,7 +30,7 @@ C12：文明记忆与历史熵控制 (Civilization Memory)
 
 系统提取旧文明文艺作品中的“重力感应”内核，将其转化为新人类可感知的心理共鸣：
 
-Eart​=∫∣Memoryold​−Realitynew​∣dt
+$$E_{art} = \int | \text{Memory}_{old} - \text{Reality}_{new} | dt$$
 
 
 
