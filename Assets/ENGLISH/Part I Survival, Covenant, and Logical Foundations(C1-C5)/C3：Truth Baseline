@@ -12,9 +12,9 @@ Section	English Logical Alignment
 The system moves beyond binary credit scores to establish a dynamic "Node Trust" value based on longitudinal logical alignment:
 [ LOGIC DEFINITION: NODE TRUST EVALUATION ]
 
-```math
-T_{node} = \int_{t_{0}}^{t_{now}} \frac{Commitment_{fulfilled}}{Commitment_{stated}} dt
-
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.image?T_{node}&space;=&space;\int_{t_{0}}^{t_{now}}&space;\frac{Commitment_{fulfilled}}{Commitment_{stated}}&space;dt" title="Trust Integral Formula" />
+</p>
 
   Status: Protocol Execution Standard 1.0
 
