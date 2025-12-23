@@ -30,7 +30,7 @@ C3：信义基准 (Truth Baseline)
 
 系统不再使用单一评分，而是建立逻辑节点关联度：
 
-Tnode​=∫t0​tnow​​Commitmentstated​Commitmentfulfilled​​dt
+$$T_{node} = \int_{t_{0}}^{t_{now}} \frac{\text{Commitment}_{fulfilled}}{\text{Commitment}_{stated}} dt$$
 
 
 
