@@ -30,7 +30,9 @@ C10 确保了《圣约》不是易碎的乌托邦。它是具备自我演化、�
 
 系统实时监测全局逻辑流的拓扑结构，寻找非自洽的突变点：
 
-Hmalicious​=i∑​δ(Logici​∩Covenant\_Core=∅)
+$$
+H_{malicious} = \sum_{i} \delta \left( Logic_{i} \cap Covenant\_Core = \emptyset \right)
+$$
 
 
 
