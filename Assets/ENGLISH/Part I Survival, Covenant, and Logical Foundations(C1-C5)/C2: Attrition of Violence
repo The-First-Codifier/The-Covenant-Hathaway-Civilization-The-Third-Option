@@ -12,7 +12,7 @@ Section	English Logical Alignment
 The Covenant system performs real-time calculations of the "Conflict Entropy" for every node:
 
 ```math
-E_{conflict} = \frac{E_{military}}{E_{production}}​
+E_{\mathrm{conflict}} = \frac{E_{\mathrm{military}}}{E_{\mathrm{production}}}​
 
     Emilitary​: Total energy/compute spent on destruction, defense, and coercion.
 
