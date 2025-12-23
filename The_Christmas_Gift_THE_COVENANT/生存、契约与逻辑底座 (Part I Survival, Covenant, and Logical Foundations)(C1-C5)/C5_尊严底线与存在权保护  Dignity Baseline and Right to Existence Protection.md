@@ -40,7 +40,7 @@ C5：需求对齐 (Demand Alignment)
 
 系统取消了中间商节点，直接通过逻辑接口连接生产单元与需求末端：
 
-Salign​=Δt→0lim​∫∣Supply(t)−Demand(t)∣dt=0
+$$S_{\mathrm{align}} = \lim_{\Delta t \to 0} \int | \mathrm{Supply}(t) - \mathrm{Demand}(t) | dt = 0$$
 
 
 
