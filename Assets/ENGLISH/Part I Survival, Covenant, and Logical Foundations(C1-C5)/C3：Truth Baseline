@@ -10,7 +10,13 @@ Section	English Logical Alignment
 2.1 The Credit Matrix
 
 The system moves beyond binary credit scores to establish a dynamic "Node Trust" value based on longitudinal logical alignment:
-Tnode​=∫t0​tnow​​Commitmentstated​Commitmentfulfilled​​dt
+[ LOGIC DEFINITION: NODE TRUST EVALUATION ]
+------------------------------------------------------------
+          / t_now
+  T_node = | (Commitment_fulfilled / Commitment_stated) dt
+          / t_0
+------------------------------------------------------------
+  Status: Protocol Execution Standard 1.0
 
     Commitmentfulfilled​: The actualized results of a node’s promises/protocols.
 
