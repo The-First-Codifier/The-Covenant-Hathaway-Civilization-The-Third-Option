@@ -30,7 +30,7 @@ C7：逻辑隔离与自恰 (Logical Isolation \& Self-Consistency)
 
 系统通过加密层为每个节点分配独立的“沙盒环境”：
 
-Pprivacy​=∮∂Ω​Protocolshield​⋅dS=1
+$$P_{\mathrm{privacy}} = \oint_{\partial \Omega} \mathrm{Protocol}_{\mathrm{shield}} \cdot d\vec{S} = 1$$
 
 
 
