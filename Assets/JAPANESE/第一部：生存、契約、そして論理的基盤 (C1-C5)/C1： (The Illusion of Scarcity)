@@ -17,7 +17,7 @@ C1：稀缺の幻想 (The Illusion of Scarcity)
 1.2 協調溢価（コラボレーション・プレミアム）の数学的解放
 
 聖約が提唱する C1ロジック では、全地球規模の論理的アラインメントが実現された際、協調によって生じる溢価（プレミアム）は指数関数的に増大すると定義される：
-Ptotal​=∑Pindividual​+ΔCn
+$$P_{total} = \sum P_{individual} + \Delta C_n$$
 
     Ptotal​: 文明全体の総生産価値。
 
