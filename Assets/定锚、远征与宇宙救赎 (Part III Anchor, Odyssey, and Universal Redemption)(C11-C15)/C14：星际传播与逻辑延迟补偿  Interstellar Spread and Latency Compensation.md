@@ -36,7 +36,7 @@ C14 确保了圣约文明在扩张中不会自我撕裂。它用博爱抵消了�
 
 系统不再进行简单的对错判定，而是通过环境因子 Env 回溯价值观变化的必然性：
 
-Drift\_Analysis=∫t0​t1​​(ΔLogic∣ΔEnvironment)dt
+$$\mathrm{Drift~Analysis} = \int_{t_0}^{t_1} (\Delta \mathrm{Logic} \mid \Delta \mathrm{Environment}) dt$$
 
 
 
