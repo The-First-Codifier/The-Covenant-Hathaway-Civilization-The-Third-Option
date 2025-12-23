@@ -15,8 +15,6 @@ The Covenant system performs real-time calculations of the "Conflict Entropy" fo
   <img src="https://render.githubusercontent.com/render/math?variant=large&math=E_{conflict}%3D\frac{E_{military}}{E_{production}}">
 </p>
 
-
-
     Emilitary​: Total energy/compute spent on destruction, defense, and coercion.
 
     Eproduction​: Total energy/compute spent on creation, evolution, and life support.
