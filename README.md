@@ -20,10 +20,13 @@ Civilization-Level Operating System (C20 Matrix Edition)
 📢 编纂者特别声明 / Special Notice / 編纂者特別声明
 
     CN: 圣约是以中文作为第一语言构筑的。由于编纂者本人并不精通英、日双语，文档中的外语表述可能存在疏漏或不周之处，还请见谅。同时，诚挚欢迎志同道合的朋友们参与翻译的完善与润色。谢谢大家。
+        本系列由一人编纂，精力有限，前十章专注发布，仅少量回复。感谢理解——圣约不完美，但我们一起构建。仓库已开放（建设中，欢迎探索与贡献）。🎄
 
     EN: The Covenant is constructed with Chinese as its primary language. As the compiler is not fluent in English or Japanese, there may be linguistic inaccuracies. We sincerely welcome like-minded friends to help refine the translations. Thank you.
+    This series is compiled by a single individual. Due to limited bandwidth, the focus is currently on the publication of the first ten chapters, with minimal interaction. Thank you for your understanding. The Covenant is not yet perfect, but we build it together. (Under construction, welcome to explore and contribute). 🎄
 
     JP: 『聖約』は中国語を第一言語として構築されています。編纂者本人は英・日二ヶ国語に精通していないため、表現に不備があるかもしれません。志を同じくする有志の方々の翻訳協力と改善を心より歓迎いたします。ありがとうございます。
+    本シリーズは個人で編纂しているため、リソースに限りがあります。現在は最初の10章の公開に集中しており、返信は最小限とさせていただきます。ご理解に感謝します。――『聖約』はまだ未完成ですが、共に築き上げていきましょう。（建設中。探索と貢献を心より歓迎します）。🎄
 
 🌐 Language Select / 语言选择 / 言語選択
 
