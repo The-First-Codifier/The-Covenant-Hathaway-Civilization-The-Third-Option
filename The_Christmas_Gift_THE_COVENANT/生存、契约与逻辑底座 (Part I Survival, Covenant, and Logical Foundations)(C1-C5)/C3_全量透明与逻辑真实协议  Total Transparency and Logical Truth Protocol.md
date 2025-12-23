@@ -30,8 +30,7 @@ C3：信义基准 (Truth Baseline)
 
 系统不再使用单一评分，而是建立逻辑节点关联度：
 
-Tnode​=∫t0​tnow​​Commitmentstated​Commitmentfulfilled​​dt
-
+$$T_{\mathrm{node}} = \int_{t_0}^{t_{\mathrm{now}}} \frac{\mathrm{Commitment}_{\mathrm{fulfilled}}}{\mathrm{Commitment}_{\mathrm{stated}}} dt$$
 
 
 任何逻辑偏差都会被实时广播并记录在不可撤销的文明总账中。
