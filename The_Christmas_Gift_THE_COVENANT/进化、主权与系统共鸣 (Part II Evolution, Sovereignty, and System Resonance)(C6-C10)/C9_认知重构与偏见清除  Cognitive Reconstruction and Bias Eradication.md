@@ -44,7 +44,7 @@ C9：认知重构与圣约教育 (Cognitive Reconstruction)
 
 系统通过浸入式逻辑环境，实时展示个体选择带来的长远因果：
 
-Acognition​=∑(Biasi​×Weightimpact​)
+$$A_{\mathrm{cognition}} = \sum ( \mathrm{Bias}_i \times \mathrm{Weight}_{\mathrm{impact}} )$$
 
 
 
