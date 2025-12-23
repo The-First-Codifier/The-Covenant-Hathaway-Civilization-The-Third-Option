@@ -76,7 +76,7 @@ For millennia, humanity has cycled between slavery and destruction. Hathaway Noa
     第三編：定錨、遠征、宇宙的救済 (C11-C15)：目的論的ベクトル、文明の記憶（負のエントロピー）、惑星級代謝、星間伝播、および自己超越。
 
 <p align="center">
-  <img src="assets/covenant_vision.jpg" width="100%" alt="Covenant Vision">
+  <img src="Assets/covenant_vision.jpg" width="100%" alt="Covenant Vision">
 </p>
 
 🧩 Terminal: 最终收敛与观测协议 | Convergence & Observation | 収束と観測のプロトコル
