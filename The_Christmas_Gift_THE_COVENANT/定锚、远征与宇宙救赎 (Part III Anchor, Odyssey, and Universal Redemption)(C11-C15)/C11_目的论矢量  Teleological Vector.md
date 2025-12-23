@@ -40,7 +40,7 @@ C11：目的论矢量 (Teleological Vector)
 
 系统计算全节点创造力流向的合力矢量：
 
-Vciv​=∫Nodes​f​(i)⋅wi​dμ
+$$V_{\mathrm{civ}} = \int_{\mathrm{Nodes}} f(i) \cdot w_i d\mu$$
 
 
 
