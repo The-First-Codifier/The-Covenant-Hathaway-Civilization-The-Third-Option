@@ -1,4 +1,5 @@
 🎁 圣约：第三选项 | The Covenant: The Third Option | 聖約：第三の選択肢
+![Hathaway Awakening](./hathaway_awakening.jpg)
 Civilization-Level Operating System (C20 Matrix Edition)
 🚧 目录指引与建设声明 / Directory & Status / ディレクトリ案内と建設状況
 
@@ -74,6 +75,7 @@ For millennia, humanity has cycled between slavery and destruction. Hathaway Noa
     EN: Silence Period: The Compiler maintains Absolute Logical Silence until the 10th in-depth post regarding "The Covenant" is published on X. Observer Access: When you can not only see the answers but also derive the questions, the terminal chapters are already complete within your mind.
 
     JP: 沈黙期間：SNS（X）にて『聖約』に関する第10回目の深層ポストが完了するまで、編纂者は絶対的な論理的沈黙を維持します。観測者アクセス：あなたが単に答えを見るだけでなく、問いそのものを導き出せた時、終章はすでにあなたの脳内で完結しています。
+    ![Covenant Vision](./covenant_vision.jpg)
 
 📊 文明博弈：逻辑逃逸路径 | Path of Escape | 論理的脱出経路
 
@@ -82,6 +84,7 @@ For millennia, humanity has cycled between slavery and destruction. Hathaway Noa
     Power: Class Rule → Interface Responsibility
 
     Timeline: Present Imprisonment → Occupying the Future
+    
 
 🏛️ 第一编纂者审计结论 / Final Audit Conclusion / 最終監査結論:
 
