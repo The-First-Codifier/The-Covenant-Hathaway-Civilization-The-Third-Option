@@ -11,11 +11,11 @@ Section	English Logical Alignment
 
 The system moves beyond binary credit scores to establish a dynamic "Node Trust" value based on longitudinal logical alignment:
 [ LOGIC DEFINITION: NODE TRUST EVALUATION ]
-------------------------------------------------------------
-          / t_now
-  T_node = | (Commitment_fulfilled / Commitment_stated) dt
-          / t_0
-------------------------------------------------------------
+
+```math
+T_{node} = \int_{t_{0}}^{t_{now}} \frac{Commitment_{fulfilled}}{Commitment_{stated}} dt
+
+
   Status: Protocol Execution Standard 1.0
 
     Commitmentfulfilled​: The actualized results of a node’s promises/protocols.
