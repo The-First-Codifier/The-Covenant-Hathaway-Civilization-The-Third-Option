@@ -30,7 +30,7 @@ C6：算力涌现 (Compute Emergence)
 
 系统为每一个生物/数字混合节点提供不可剥夺的“逻辑主权算力”：
 
-Cemergence​=Cbase​+f(Diversity\_Contribution)
+$$C_{emergence} = C_{base} + f(\text{Diversity\_Contribution})$$
 
 
 
