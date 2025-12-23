@@ -44,7 +44,7 @@ C8：自发秩序与共鸣 (Spontaneous Order \& Resonance)
 
 系统监控节点间的逻辑对齐度，并自动优化连接带宽：
 
-Rab​=∫Ψa​(logic)⋅Ψb∗​(logic)dτ
+$$R_{ab} = \int \Psi_a(\mathrm{logic}) \cdot \Psi_b^*(\mathrm{logic}) d\tau$$
 
 
 
