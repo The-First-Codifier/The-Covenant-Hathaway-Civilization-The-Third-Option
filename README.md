@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hathaway_awakening.jpg" width="800" alt="Hathaway Awakening">
+  <img src="assets/hathaway_awakening.jpg" width="100%" alt="Hathaway Awakening">
 </p>
 
 # 🎁 圣约：第三选项 | The Covenant: The Third Option
@@ -76,7 +76,7 @@ For millennia, humanity has cycled between slavery and destruction. Hathaway Noa
     第三編：定錨、遠征、宇宙的救済 (C11-C15)：目的論的ベクトル、文明の記憶（負のエントロピー）、惑星級代謝、星間伝播、および自己超越。
 
 <p align="center">
-  <img src="./covenant_vision.jpg" width="800" alt="Covenant Vision">
+  <img src="assets/covenant_vision.jpg" width="100%" alt="Covenant Vision">
 </p>
 
 🧩 Terminal: 最终收敛与观测协议 | Convergence & Observation | 収束と観測のプロトコル
