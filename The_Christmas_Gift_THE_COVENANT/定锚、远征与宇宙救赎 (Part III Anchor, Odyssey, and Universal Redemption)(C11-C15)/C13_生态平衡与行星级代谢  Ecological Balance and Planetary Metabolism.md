@@ -36,7 +36,7 @@ C13 确立了文明的物理边界。行星不再是博物馆，而是与人类�
 
 系统不再单纯追求“零干预”，而是通过算法评估“人类痕迹”对个体精神稳定（归属感）的贡献值：
 
-Bhome​=∫(Ecological\_Health×Evolutionary\_Memory)dt
+$$B_{\mathrm{home}} = \int (\mathrm{Ecological\_Health} \times \mathrm{Evolutionary\_Memory}) dt$$
 
 
 
