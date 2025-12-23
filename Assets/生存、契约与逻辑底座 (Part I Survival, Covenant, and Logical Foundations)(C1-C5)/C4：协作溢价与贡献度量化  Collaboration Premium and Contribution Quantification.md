@@ -30,7 +30,7 @@ C4：协作溢价 (Collaboration Premium)
 
 系统通过实时算力审计，将协作产生的增量冗余分配至所有参与节点：
 
-Vtotal​=(i=1∑n​wi​⋅Ci​)k
+$$V_{total} = \left( \sum_{i=1}^{n} w_i \cdot C_i \right)^k$$
 
 
 
