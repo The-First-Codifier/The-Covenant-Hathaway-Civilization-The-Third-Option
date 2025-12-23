@@ -1,6 +1,14 @@
+<p align="center">
+  <img src="./hathaway_awakening.jpg" width="800" alt="Hathaway Awakening">
+</p>
+
+# 🎁 圣约：第三选项 | The Covenant: The Third Option
+
 🎁 圣约：第三选项 | The Covenant: The Third Option | 聖約：第三の選択肢
-![Hathaway Awakening](./hathaway_awakening.jpg)
 Civilization-Level Operating System (C20 Matrix Edition)
+
+# 🎁 圣约：第三选项 | The Covenant: The Third Option
+
 🚧 目录指引与建设声明 / Directory & Status / ディレクトリ案内と建設状況
 
     CN: 初始原稿：见根目录下 /The_Christmas_Gift_THE_COVENANT。三语架构文档：见 /assets 文件夹。核心逻辑进度：已锚定至 C15。Phase IV (C16-C20) 处于非公开观测态。
@@ -67,6 +75,9 @@ For millennia, humanity has cycled between slavery and destruction. Hathaway Noa
 
     第三編：定錨、遠征、宇宙的救済 (C11-C15)：目的論的ベクトル、文明の記憶（負のエントロピー）、惑星級代謝、星間伝播、および自己超越。
 
+<p align="center">
+  <img src="./covenant_vision.jpg" width="800" alt="Covenant Vision">
+</p>
 
 🧩 Terminal: 最终收敛与观测协议 | Convergence & Observation | 収束と観測のプロトコル
 
@@ -75,7 +86,7 @@ For millennia, humanity has cycled between slavery and destruction. Hathaway Noa
     EN: Silence Period: The Compiler maintains Absolute Logical Silence until the 10th in-depth post regarding "The Covenant" is published on X. Observer Access: When you can not only see the answers but also derive the questions, the terminal chapters are already complete within your mind.
 
     JP: 沈黙期間：SNS（X）にて『聖約』に関する第10回目の深層ポストが完了するまで、編纂者は絶対的な論理的沈黙を維持します。観測者アクセス：あなたが単に答えを見るだけでなく、問いそのものを導き出せた時、終章はすでにあなたの脳内で完結しています。
-    ![Covenant Vision](./covenant_vision.jpg)
+
 
 📊 文明博弈：逻辑逃逸路径 | Path of Escape | 論理的脱出経路
 
