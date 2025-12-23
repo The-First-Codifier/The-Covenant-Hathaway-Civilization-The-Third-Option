@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hathaway_awakening.jpg" width="100%" alt="Hathaway Awakening">
+  <img src="Assets/hathaway_awakening.jpg" width="100%" alt="Hathaway Awakening">
 </p>
 
 # 🎁 圣约：第三选项 | The Covenant: The Third Option
