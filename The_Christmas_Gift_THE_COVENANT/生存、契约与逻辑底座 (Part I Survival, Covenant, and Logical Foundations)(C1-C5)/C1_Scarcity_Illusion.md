@@ -30,7 +30,7 @@ C1：稀缺假象 (The Illusion of Scarcity)
 
 《圣约》提出的 C1 逻辑 认为：一旦实现全球范围内的逻辑对齐，协作产生的溢价将呈指数级增长：
 
-Ptotal​=∑Pindividual​+ΔCn
+$$P_{\mathrm{total}} = \sum P_{\mathrm{individual}} + \Delta C_n$$
 
 
 
