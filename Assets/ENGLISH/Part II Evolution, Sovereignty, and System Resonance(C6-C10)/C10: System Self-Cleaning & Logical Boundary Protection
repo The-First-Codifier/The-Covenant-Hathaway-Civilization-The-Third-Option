@@ -10,9 +10,7 @@ Section	English Logical Alignment
 2.1 Malicious Entropy Detection Function
 
 The system monitors the topology of global logical flows in real-time, searching for non-consistent mutation points:
-$$
-H_{malicious} = \sum_{i} \delta \left( Logic_{i} \cap Covenant\_Core = \emptyset \right)
-$$
+Hmalicious​=i∑​δ(Logici​∩Covenant\_Core=∅)
 
     Hmalicious​: The aggregate index of systemic malicious entropy.
 
