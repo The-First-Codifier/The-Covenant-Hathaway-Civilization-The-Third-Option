@@ -30,7 +30,7 @@ C2：暴力损耗 (Attrition of Violence)
 
 《圣约》系统会实时计算各节点的“冲突熵”：
 
-$$E_{\mathrm{conflict}} = \frac{\mathrm{Energy}_{\mathrm{military}}}{\mathrm{Energy}_{\mathrm{production}}}$$​​
+$$E_{conflict} = \frac{E_{military}}{E_{production}}$$​​
 
 
 
