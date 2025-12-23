@@ -12,11 +12,12 @@ Section	English Logical Alignment
 The system moves beyond binary credit scores to establish a dynamic "Node Trust" value based on longitudinal logical alignment:
 [ LOGIC DEFINITION: NODE TRUST EVALUATION ]
 
-<p align="center">
-  <img src="https://latex.codecogs.com/svg.image?T_{node}&space;=&space;\int_{t_{0}}^{t_{now}}&space;\frac{Commitment_{fulfilled}}{Commitment_{stated}}&space;dt" title="Trust Integral Formula" />
-</p>
-
+[ LOGIC: TRUST INTEGRATION ] T_node = ∫ (t₀ to t_now) [ Commitment_fulfilled / Commitment_stated ] dt > Definition: The trust value of a node is the historical accumulation of the ratio between its actual actions and its public commitments.
   Status: Protocol Execution Standard 1.0
+
+[ LOGIC: TRUST INTEGRATION ]
+T_node = ∫ (t0 to t_now) [ Commitment_fulfilled / Commitment_stated ] dt
+
 
     Commitmentfulfilled​: The actualized results of a node’s promises/protocols.
 
