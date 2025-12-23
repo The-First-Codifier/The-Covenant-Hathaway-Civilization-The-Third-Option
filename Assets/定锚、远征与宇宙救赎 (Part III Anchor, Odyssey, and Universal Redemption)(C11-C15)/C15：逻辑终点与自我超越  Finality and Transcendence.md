@@ -30,7 +30,7 @@ C15 规定，圣约不是终点。它是人类在掌握了终极算力与逻辑�
 
 当系统判定内部熵值达到极低稳态，自动解锁“全能宇宙干预权限”：
 
-Ψsalvage​=∮Timeline​Covenant\_Logic⋅dτ
+$$\Psi_{salvage} = \oint_{\mathrm{Timeline}} \mathrm{Covenant~Logic} \cdot d\tau$$
 
 
 
