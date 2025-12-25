@@ -28,6 +28,53 @@ Civilization-Level Operating System (C20 Matrix Edition)
     JP: 『聖約』は中国語を第一言語として構築されています。編纂者本人は英・日二ヶ国語に精通していないため、表現に不備があるかもしれません。志を同じくする有志の方々の翻訳協力と改善を心より歓迎いたします。ありがとうございます。
     本シリーズは個人で編纂しているため、リソースに限りがあります。現在は最初の10章の公開に集中しており、返信は最小限とさせていただきます。ご理解に感謝します。――『聖約』はまだ未完成ですが、共に築き上げていきましょう。（建設中。探索と貢献を心より歓迎します）。🎄
 
+ [修正与免疫系统] 圣约逻辑订正方案 (Covenant Logic Amendment)
+
+        路径：/Covenant_Archives/圣约逻辑订正方案 (Covenant Logic Amendment)/
+
+        说明：此文件夹包含针对 C1-15 及百科全书的中、英、日三语补丁修订，用于封堵逻辑漏洞并强化系统稳定性。
+
+        🇺🇸 English Translation
+
+[Correction & Immune System] Covenant Logic Amendment
+
+    Path: /Covenant_Archives/圣约逻辑订正方案 (Covenant Logic Amendment)/
+
+    Description: This folder contains Patch 1.0 revisions in Chinese, English, and Japanese for C1-15 and the Encyclopedia. It is designed to seal logical backdoors and reinforce the systemic stability of the Covenant.
+
+🇯🇵 Japanese Translation
+
+【修正と免疫システム】聖約論理訂正案 (Covenant Logic Amendment)
+
+    パス: /Covenant_Archives/圣约逻辑订正方案 (Covenant Logic Amendment)/
+
+    説明: このフォルダには、C1-15および百科事典に対する中・英・日の三ヶ国語修正パッチが含まれています。これらは論理的な脆弱性を封鎖し、システムの安定性を強化するために設計されています。
+
+📖 补丁修订核心方案 (Three-Language Patch Revision)
+🇨🇳 中文版：逻辑补丁 1.0
+
+    防范权力篡夺 (针对 C2 & C9)：引入 Weightimpact = 1 / (ΔEconflict + ε)。任何决策权重必须与该决策导致的系统冲突熵增成反比，剥夺野心家的算法特权。
+
+    防范大数暴力 (针对 C10)：引入 Pprivacy (隐私因子)。只有具备独立意志的节点贡献才被计入 Vciv (文明势能)，被催眠或从众的意志将被逻辑熔断。
+
+    防范历史虚无主义 (针对 C14)：引入 Eart (艺术阵痛)。历史牺牲不被抹除，而是作为文明的支撑应力被永久观测并结构化。
+
+🇺🇸 English Version: Logic Patch 1.0
+
+    Countering Power Usurpation (Targets C2 & C9): Implement Weightimpact = 1 / (ΔEconflict + ε). Decision-making weight is inversely proportional to the systemic conflict entropy caused by that decision, stripping ambitious actors of algorithmic privilege.
+
+    Countering Mob Tyranny (Targets C10): Introduce Pprivacy (Privacy Factor). Only contributions from nodes with independent sovereignty are integrated into Vciv (Civilizational Potential); hypnotized or conformist wills are logically fused and excluded.
+
+    Countering Historical Nihilism (Targets C14): Introduce Eart (Artistic Trauma). Past sacrifices are not erased but permanently observed as structural stress-bearing components of civilization.
+
+🇯🇵 日本語版：論理パッチ 1.0
+
+    権力簒奪の防止 (C2 & C9 対象)：Weightimpact = 1 / (ΔEconflict + ε) を導入。意思決定の重みは、その決定がもたらすシステム衝突エントロピーの増大に反比例し、野心家のアルゴリズム的特権を剥奪する。
+
+    衆愚政治の防止 (C10 対象)：Pprivacy（プライバシー因子）を導入。独立した意志を持つノードの貢献のみが Vciv（文明ポテンシャル）に計上され、集団催眠や同調による意志は論理的に遮断される。
+
+    歴史虚無主義の防止 (C14 対象)：Eart（芸術的陣痛）を導入。過去の犠牲は抹消されることなく、文明の構造的応力として永久に観測・構造化される。
+
 🌐 Language Select / 语言选择 / 言語選択
 
     简体中文 (Simplified Chinese)
